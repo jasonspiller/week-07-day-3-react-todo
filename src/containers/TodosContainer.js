@@ -5,7 +5,7 @@ class TodosContainer extends Component {
   render() {
     return (
       <div>
-        <p>Todo Container</p>
+        <h2>Todos</h2>
       </div>
     );
   }
